@@ -1,4 +1,4 @@
-# Đây là bài tập môn "CÔNG NGHỆ MỚI TRONG PHÁT TRIỂN ỨUNG DỤNG CÔNG NGHHỆ THÔNG TIN" trường đại học công nghiệp của 2 sinh viên: 
+# Đây là bài tập lớn báo cáo "CÔNG NGHỆ MỚI TRONG PHÁT TRIỂN ỨUNG DỤNG CÔNG NGHHỆ THÔNG TIN" trường đại học công nghiệp của 2 sinh viên: 
     Nguyễn Duy Tài
     Hồ Trần Chí Tâm
 
